@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 720fps)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        720P AND 30 FPS MINIMUM ANYTHING LOWER WILL GET REJECTED
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        MUST HAVE AUDIBLE CLICKS 
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        MUST INCLUDE THE LAST 3 SECONDS OF YOUR LAST RUN AND MUST SHOW THE END SCREEN
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        PLAYER MUST SHOW A CHEAT INDICATOR
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        IF YOU USE A BUG OR SECRET WAY TO BEAT THE LEVEL YOUR RUN WILL GET REJECTED
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        EDITING/NERFING THE LEVEL WILL BE GET REJECT (We will check by the pixel)
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        JOIN THE DISCORD TO SEE WHAT HACKS ARE ALLOWED AND REQUIRE MEANTS FOR CREATING A LEVEL
                     </p>
                 </div>
             </div>
