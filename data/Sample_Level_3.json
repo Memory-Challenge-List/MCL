@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 132335605,
+    "name": "MWC",
+    "author": "Rusted4k",
+    "creators": ["Rusted4k"],
+    "verifier": "Rusted4k",
+    "verification": "",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "",
+            "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "",
+            "link": "",
             "percent": 100,
-            "hz": 120
+            "hz": 
         }
     ]
 }
